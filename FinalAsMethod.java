@@ -20,7 +20,7 @@ class Animal
     }
     public void Competitor()
     {
-        System.out.println("What is the Competitor ? ");
+        System.out.println("Who is the Competitor ? ");
     }
 }
 class Dog extends Animal
